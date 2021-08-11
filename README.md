@@ -40,7 +40,13 @@ npm install --save
 	]
 }
 ```
+***
 ## Execute
 ```
 node app.js
 ```
+***
+## Development
+Encounter any issue or Bugs, Please report them [Here](https://github.com/theguruscripts/curation-trail/issues).
+
+Bot Developed by @theguruasia on HIVE.BLOG, @TheGuruAsia theguruasia#8947 on Discord.
