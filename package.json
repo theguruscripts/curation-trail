@@ -1,0 +1,25 @@
+{
+  "name": "curation-trail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theguruscripts/curation-trail.git"
+  },
+  "author": "The Guru Asia",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/theguruscripts/curation-trail/issues"
+  },
+  "homepage": "https://github.com/theguruscripts/curation-trail#readme",
+  "dependencies": {
+    "@splinterlands/hive-interface": "^2.2.0",
+    "colors": "^1.4.0",
+    "node-schedule": "^2.0.0"
+  }
+}
