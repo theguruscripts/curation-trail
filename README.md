@@ -2,7 +2,12 @@
 This script can be used to create your own curation trails.
 
 ***
-
+## Installation
+This is a nodejs based application.
+```
+npm install --save
+```
+***
 ## Configuration
 ```javascript
 {
