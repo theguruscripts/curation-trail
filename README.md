@@ -40,3 +40,7 @@ npm install --save
 	]
 }
 ```
+## Execute
+```
+node app.js
+```
